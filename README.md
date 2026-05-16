@@ -244,18 +244,6 @@ public class Cat {
 
 ---
 
-# ✨ Future Improvements
-
-- Swagger/OpenAPI documentation
-- Authentication with JWT
-- PostgreSQL support
-- Docker support
-- Pagination
-- Validation handling
-- Global exception handling
-
----
-
 # 👨‍💻 Author
 
-Made with Spring Boot.
+Made by Sergi Navarro Moraleda.
