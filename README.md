@@ -21,7 +21,7 @@ Simple REST API built with Spring Boot for managing cats.
 - Spring Web
 - Spring Data JPA
 - Maven
-- H2 / MySQL (depending on configuration)
+- SQLite
 
 ---
 
